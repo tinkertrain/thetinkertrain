@@ -1,0 +1,16 @@
+.root {
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+  padding: 0 20px;
+  margin: 0 6px;
+  max-width: 400px;
+  background-color: dodgerblue;
+}
+
+.text {
+  color: #777;
+  font-size: 24px;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 600;
+}

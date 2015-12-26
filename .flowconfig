@@ -1,0 +1,12 @@
+[ignore]
+.*/dist
+.*node_modules/fbjs.*
+.*node_modules/webpack.*
+.*/react/node_modules/.*
+
+[include]
+
+[libs]
+
+[options]
+module.system=haste

@@ -1,0 +1,27 @@
+@import "../../sass/palette.scss";
+
+.root {
+  border-width: 8px;
+  border-style: solid;
+  border-color: darken($green, 0%);
+  padding: 0 20px;
+  margin: 0 6px;
+  max-width: 400px;
+  background-color: rgba($blue, 0.5);
+}
+.root2 {
+  border-width: 8px;
+  border-style: solid;
+  border-color: darken(red, 0%);
+  padding: 0 20px;
+  margin: 0 6px;
+  max-width: 400px;
+  background-color: rgba($blue, 0.5);
+}
+
+.text {
+  color: #777;
+  font-size: 24px;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 600;
+}
